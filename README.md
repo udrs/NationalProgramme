@@ -11,3 +11,22 @@ We designed a hardware and software system that can be used to detect bearing su
 
 The main processing flow is shown in Figure 1.
 ![main](https://github.com/wenyihan4396/National-College-Student-s-innovation-and-entrepreneurship-training-program/blob/main/software%20component.png)
+
+
+## Project progress.
+First, we learned the circuit board principle and soldering method for hardware. To solve the problem of poor robustness and low efficiency of the previous generation of robot arm-based system, we soldered out the circuit board to control the six-way servo system. After preliminary experiments, the system’s efficiency was improved by 67% based on the original one. The third generation of the detection process system controlled by a microcontroller was initially completed with a six-servo model to accelerate the efficiency of the original hardware process system, and experiments were conducted. The specific process is shown in Figure 2.
+
+![main](https://github.com/wenyihan4396/National-College-Student-s-innovation-and-entrepreneurship-training-program/blob/main/workflow.png)
+
+In communication devices, millimeter wave (mmWave) communication is integrated into the hardware and software integrated system to increase the data transmission rate. In this system, we introduced low-complexity analog/digital hybrid precoding for signal processing. Hybrid precoding involves a combination of analog and digital processing, improving efficiency to support more data transmission to meet explosive communication demands.
+
+On the software side, the overall software detection process is improved. In the case of text recognition, the original learning method is replaced, and MMORC is used for the distinction of bearing surface text for obtaining a sizable data set. We have implemented each algorithm module using a unified framework and modular design to achieve code reuse as much as possible. We abstracted the text detection, segmentation-based text recognition, and critical information recognition network structures into backbone, neck, head, and loss modules and the seq2seq text recognition network into the backbone, encoder, decoder, and loss modules. Various datasets were downloaded from the web to test the learning model.
+
+We evaluated the overall hardware process, built a set of coaxial light sources using 3D printing (shown in Figure 3), and changed the human-machine interaction, i.e., the UI, according to today's hardware-software integration system.
+
+![main](https://github.com/wenyihan4396/National-College-Student-s-innovation-and-entrepreneurship-training-program/blob/main/hardware.png)
+
+
+
+
+
