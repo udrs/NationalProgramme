@@ -2,6 +2,11 @@
 
 ## Automatic miniature bearing mechanical defect detection software and hardware integration system
 
+
+You can download our vedio from the following link to learn the hardware and software component about this project.
+https://github.com/wenyihan4396/National-College-Student-s-innovation-and-entrepreneurship-training-program/blob/main/software.mp4
+https://github.com/wenyihan4396/National-College-Student-s-innovation-and-entrepreneurship-training-program/blob/main/hardware.mp4
+
 ## Objective.·
 Bearing is an essential component in modern mechanical equipment; its primary function is to support the mechanical rotating body, reduce the friction coefficient during its movement, and ensure its rotary accuracy so that the quality and reliability of the bearing have highly demanding requirements.
 Currently, to screen out the bearings that meet the requirements, the manual visual inspection method is generally used in industrial production. This is a high-cost and inefficient way of manual training. To address this pain point, we combine the current rapid development of image processing, pattern recognition, deep learning, and other related science to solve the interdisciplinary problem of "how to apply computer vision to industrial product inspection" and then form a set of "vision" link The feedback system can be used to improve the productivity and quality of industrial production by using the image inspection technology which is widely used in the automatic inspection of industrial products.
