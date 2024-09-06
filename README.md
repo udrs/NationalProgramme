@@ -1,6 +1,6 @@
 # National-College-Student-s-innovation-and-entrepreneurship-training-program
 
-http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=805868
+award officail link : http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=805868
 
 ## Automatic miniature bearing mechanical defect detection software and hardware integration system
 
